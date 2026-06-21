@@ -67,11 +67,11 @@ Los resultados permitieron identificar oportunidades de mejora y validar la prop
 
 Proyecto desarrollado para el curso IHC y Tecnologías Móviles – UPC por:
 
-* Jesús Allende
-* [Integrante 2]
-* [Integrante 3]
-* [Integrante 4]
-* [Integrante 5]
+* Porras Lluen Valery Xiomara
+* Hurtado Gaspar Kristel Miluska
+* Lozano Navarro Diego Fabrizio
+* Asto Ascoy Bianca Nicole
+* Allende Medina Jesus Alberto
 
 ## Estado del Proyecto
 
